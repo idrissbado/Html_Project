@@ -11,7 +11,7 @@ This is the portfolio web page I’ve created as part of the second checkpoint. 
 
 The web page is structured to be simple, clean, and easy to navigate while showcasing my personal information and projects. I have made sure to use **semantic HTML tags** to enhance accessibility and SEO.
 
-The web page file is named `idriss.html`.
+The web page file is named `index.html`.
 
 ---
 
