@@ -57,7 +57,7 @@ The footer includes copyright information and a placeholder for social media lin
 
 ## File
 
-- **File Name**: `idriss.html`
+- **File Name**: `index.html`
 - The HTML file is properly structured and passes validation.
 
 ---
